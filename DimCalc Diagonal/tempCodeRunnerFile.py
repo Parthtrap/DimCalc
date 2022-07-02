@@ -1,0 +1,1 @@
+cv2.line(img2, contour[2][i][0], contour[2][i+1][0], (0, 0, 255), 2)
